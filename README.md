@@ -1,4 +1,4 @@
-# Sistema-de-Rega
+# Sistema de Rega
 
 Projeto no âmbito da disciplina de Arquitetura de Computadores
 
